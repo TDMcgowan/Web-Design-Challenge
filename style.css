@@ -5,12 +5,12 @@ body{
         background-color: rgb(37, 37, 37);
     }
     .col-md-6 navbar_header{
-        background-color: rgb(33, 34, 33);
+        background-color: rgb(93, 95, 93);
     }
     a.navbar-brand{
         margin-left: -3px;
         padding: 8px;
-        background-color: #2a2b2a;
+        background-color: #eaf1ea;
         font-size: 20px;
     }    
     .collapse{
@@ -19,7 +19,7 @@ body{
         top:5px;
     }
     h3 {
-        color:rgb(72, 235, 22)}
+        color:rgb(7, 7, 7)}
 
     .col-md-6{
             background-color: white;
@@ -54,7 +54,7 @@ body{
 
             @media(max-width:780px){
                 .navbar.bg-light{
-                    background-color: rgb(50, 51, 51)!important;    
+                    background-color: rgb(115, 119, 119)!important;    
                 }
             @media screen and (max-width: 540px) {
                     .col-md-8 
